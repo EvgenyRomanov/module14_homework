@@ -5,12 +5,14 @@
 
   
 /* результат  
+```
 {  
-```list: [
- { name: 'Ivan Ivanov', age: 35, prof: 'teacher', lang: 'en' },  
- { name: 'Петр Петров', age: 58, prof: 'driver', lang: 'ru' },  
+  list: [
+  { name: 'Ivan Ivanov', age: 35, prof: 'teacher', lang: 'en' },
+  { name: 'Петр Петров', age: 58, prof: 'driver', lang: 'ru' },
 ]  
-}```  
+}
+```  
 */  
 
 
